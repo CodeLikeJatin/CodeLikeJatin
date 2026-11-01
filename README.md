@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Jatin Developer Banner">
+</div>
 
+<br>
 <div align="center">
 
 # Hey, I'm Jatin! 👋
