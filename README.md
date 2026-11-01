@@ -75,7 +75,10 @@ Building beautiful, responsive and user-friendly websites.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLikeJatin&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLikeJatin&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 
 </div>
 
