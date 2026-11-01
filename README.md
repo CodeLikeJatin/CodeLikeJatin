@@ -70,15 +70,11 @@ Building beautiful, responsive and user-friendly websites.
 </div>
 
 ---
-
 ## 💻 Most Used Languages
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeLikeJatin&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeLikeJatin&theme=tokyonight" />
 
 </div>
 
